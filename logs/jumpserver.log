@@ -1,0 +1,42 @@
+2019-06-27 14:20:25 [signal_handler DEBUG] Work ready signal recv
+2019-06-27 14:20:25 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-06-27 14:26:58 [log WARNING] Not Found: /favicon.ico
+2019-06-27 16:07:30 [signal_handler DEBUG] Work ready signal recv
+2019-06-27 16:07:30 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-06-27 16:17:36 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 16:20:03 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 16:21:09 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 16:36:58 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 16:56:20 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 16:57:06 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:07:37 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:08:11 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:08:49 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:09:26 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:10:40 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:13:37 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:17:03 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:17:47 [log WARNING] Forbidden: /api/terminal/v2/terminal-registrations/
+2019-06-27 17:29:04 [signals_handler INFO] Asset `10.10.46.30(10.10.46.30)` create signal received
+2019-06-27 17:29:04 [signals_handler DEBUG] Update asset `10.10.46.30(10.10.46.30)` hardware info
+2019-06-27 17:29:04 [signals_handler DEBUG] Test asset `10.10.46.30(10.10.46.30)` connectivity
+2019-06-27 17:29:04 [signals_handler DEBUG] Asset nodes change signal received
+2019-06-27 17:29:04 [signals_handler DEBUG] Asset nodes change signal received
+2019-06-27 17:29:04 [utils DEBUG] 更新任务内容: 更新资产硬件信息
+2019-06-27 17:29:04 [utils DEBUG] 更新任务内容: 测试资产可连接性
+2019-06-27 17:29:06 [tasks ERROR] 获取资产信息失败：10.10.46.30
+2019-06-27 17:33:44 [user INFO] Auto generate key and set system user auth
+2019-06-27 17:33:44 [signals_handler INFO] System user `10.1.72.176(eas)` update signal received
+2019-07-07 18:25:27 [signal_handler DEBUG] Work ready signal recv
+2019-07-07 18:25:27 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-07-08 10:13:36 [signal_handler DEBUG] Work ready signal recv
+2019-07-08 10:13:36 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-07-08 10:28:21 [log WARNING] Not Found: /favicon.ico
+2019-07-08 10:30:47 [signal_handler DEBUG] Work ready signal recv
+2019-07-08 10:30:47 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-07-08 11:09:00 [signal_handler DEBUG] Work ready signal recv
+2019-07-08 11:09:00 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-07-08 11:11:10 [signal_handler DEBUG] Work ready signal recv
+2019-07-08 11:11:10 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]
+2019-07-08 14:39:35 [signal_handler DEBUG] Work ready signal recv
+2019-07-08 14:39:35 [signal_handler DEBUG] Start need start task: [ops.tasks.create_or_update_registered_periodic_tasks, users.tasks.check_password_expired_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_expired_session_period]

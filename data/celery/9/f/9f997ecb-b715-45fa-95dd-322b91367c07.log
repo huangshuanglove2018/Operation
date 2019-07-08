@@ -1,0 +1,7 @@
+2019-06-27 17:29:04 任务开始: 更新资产硬件信息
+PLAY [更新资产硬件信息] ****************************************************************
+TASK [setup] *******************************************************************
+[0;31mfatal: [10.10.46.30]: FAILED! => {"msg": "to use the 'ssh' connection type with passwords, you must install the sshpass program"}[0m
+2019-06-27 17:29:06 任务结束
+获取资产信息失败：10.10.46.30
+Task assets.tasks.update_assets_hardware_info_util[9f997ecb-b715-45fa-95dd-322b91367c07] succeeded in 2.163292779998301s: ({'ok': {}, 'failed': {'10.10.46.30': {...}}, 'unreachable': {}, 'skippe': {}}, {'contacted': {}, 'dark': {'10.10.46.30': {...}}, 'success': False})
